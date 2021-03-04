@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "173094817359",
+    "firebase_url": "https://my-covid-19-app-default-rtdb.firebaseio.com",
+    "project_id": "my-covid-19-app",
+    "storage_bucket": "my-covid-19-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173094817359:android:7da6f6bb47954e8800243a",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173094817359-41ldb2edcv7rj21gmn681undq03tbtbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6BuTlUC1rwgY22AGADZMU9y444J_17bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173094817359-41ldb2edcv7rj21gmn681undq03tbtbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173094817359:android:0ed5b013f6b30f5d00243a",
+        "android_client_info": {
+          "package_name": "com.llodu.covid19guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173094817359-41ldb2edcv7rj21gmn681undq03tbtbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6BuTlUC1rwgY22AGADZMU9y444J_17bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173094817359-41ldb2edcv7rj21gmn681undq03tbtbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

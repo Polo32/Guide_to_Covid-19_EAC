@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">Covid-19 Guide</string>
+    <!--this is are the strings of the splash screen!-->
+    //Login......................
+    <string name="loginT">Please Login Login to Continue</string>
+    <string name="logintitleB">Guide To Covid-19</string>
+    <string name="mainT">Covid_19</string>
+
+    <string name="imageDescrp">A pic of Covid-19 Vaccine</string>
+    <string name="tittletxt">Covid-19</string>
+    <string name="titleDescrp">The Ultimate Guide</string>
+    <!--this are the strings for the introduction !-->
+    <string name="title_intro">Introduction</string>
+    <string name="Dr_title">Message from the Regional Director of WHO Africa. (Dr. Luis Gomes Sambo-
+        WHO Regional Office for Africa)</string>
+    <string name="Dr_msg"> “Every year millions of Africans are dying needlessly of
+        diseases that are preventable and treatable. The Health of the People: The African Regional
+        Health Report provides vital reading
+        for those who want to understand why and what can be done about it”</string>
+    <string name="disclaimerT">Disclaimer</string>
+    <string name="disclaimer">“This App is designed to create awareness among the sub-Saharan Africa. 
+        On the causes, symptoms, diagnosis, treatment, vaccines and prevention methods of COvid-19
+        and should not be used as a substitute to medical advice by medical professionals”</string>
+
+    <string name="bigin_title">How did COVID-19 begin?</string>
+    <string name="bigin_body">In December 2019, a new respiratory illness began to spread throughout Wuhan,
+        China, a city of 11 million people in Hubei province. The virus, known as COVID-19, quickly
+        infected tens of thousands of people over the ensuing weeks. China imposed major restrictions
+        on travel and work, and by the end of February, cases of COVID-19 had slowed inside the country
+        while spiking in other countries including South Korea, Italy, and Iran.
+        In March, the World Health Organization recognized the breakout as a global pandemic — the first since 2009.
+    </string>
+
+    <string name="whatT">What is a novel coronavirus?</string>
+    <string name="whatB">A novel coronavirus is a new kind of coronavirus that has not been
+        previously identified. Coronaviruses usually cause upper-respiratory tract illnesses like
+        the common cold, though some can grow serious.
+        Most people contract some sort of coronavirus during their lives. Human coronaviruses were first
+        discovered in the 1960s, and seven of them can infect people. SARS was a coronavirus
+        that killed 774 people in 2002–03, while MERS is a coronavirus that has killed 861 people since 2012.
+
+    </string>
+    <string name="lastT">When was the last time we had a global pandemic?</string>
+    <string name="lastB">COVID-19 is the first global pandemic since the 2009 H1N1 “swine flu”
+        outbreak. The 2014 Ebola outbreak in West Africa and the 2016 Zika virus outbreak were
+        both categorized as international emergencies.
+        H1N1 was an influenza outbreak that infected about 60 million people in the United States from
+        April 2009 – April 2010. It’s estimated that about 11–21% of the global population contracted
+        the virus, and somewhere between 151,000–575,000 people died.
+</string>
+    <string name="sourcesT">What are some reliable sources of information to follow?</string>
+    <string name="sourcesB">For up-to-date numbers about COVID-19 cases around the world, see the
+        Johns Hopkins University Coronavirus Resource Center.
+        For information about COVID-19 cases in the U.S., visit the CDC.
+        The New York Times has made all its coverage about the coronavirus outbreak free and available
+        at their website
+    </string>
+
+    //strings for the symptoms.......
+    <string name="sympmainTitle">Signs and Symptoms</string>
+    <string name="title1T">What you need to know</string>
+    <string name="title1B">Anyone can have mild to severe symptoms.
+    Older adults and people who have severe underlying medical conditions 
+        like heart or lung disease or diabetes seem to be at higher risk 
+        for developing more serious complications from COVID-19 illness.
+</string>
+    <string name="symptomsT">Watch for symptoms</string>
+    <string name="symptomsB">People with COVID-19 have had a wide range of symptoms reported –
+        ranging from mild symptoms to severe illness. Symptoms may appear 2-14 days after exposure
+        to the virus. People with these symptoms may have COVID-19:</string>
+
+    <string name="sympsBB1">Fever or chills</string>
+    <string name="sympsBB2">      Cough  </string>
+    <string name="sympsBB3">Shortness of breath or difficulty breathing </string>
+    <string name="sympsBB4">   Fatigue </string>
+    <string name="sympsBB5">    Muscle or body aches </string>
+    <string name="sympsBB6">     Headache </string>
+    <string name="sympsBB7">     New loss of taste or smell</string>
+    <string name="sympsBB8">       Sore throat</string>
+    <string name="sympsBB9">     Congestion or runny nose   </string>
+    <string name="sympsBB10">      Nausea or vomiting  </string>
+    <string name="sympsBB11">      Diarrhea</string>
+
+    <string name="emergencyT">When to seek emergency medical attention</string>
+    <string name="emergencyB">Trouble breathing</string>
+    <string name="emergencyB2">Persistent pain or pressure in the chest</string>
+    <string name="emergencyB3">New confusion</string>
+    <string name="emergencyB4"> Inability to wake or stay awake</string>
+    <string name="emergencyB5"> Pale, gray, or blue-colored skin, lips, or nail beds, depending on skin tone</string>
+    <string name="emergencyB6"> NOTE: This list is not all possible symptoms. Please call your medical provider
+        for any other symptoms that are severe or concerning to you.</string>
+
+
+    //strings for vaccines............Done
+    <string name="vacmaintitle">Vaccines/Inoculation</string>
+    <string name="vactitleT">Is there a Vaccine for Covid-19?</string>
+    <string name="vacctitleB">Yes there are now several vaccines that are in use. The first mass
+        vaccination programme started in early December 2020 and as of and as of 15 February 2021,
+        175.3 million vaccine doses have been administered. At least 7 different vaccines
+        (3 platforms) have been administered.</string>
+    <string name="vacchowquickT">How quickly could COVID-19 vaccines stop the pandemic?</string>
+    <string name="vacchowquickB">The impact of COVID-19 vaccines on the pandemic will depend on
+        several factors. These include the effectiveness of the vaccines; how quickly they are
+        approved, manufactured, and delivered; the possible development of other variants and
+        how many people get vaccinated
+        Whilst trials have shown several COVID-19 vaccines to have high levels of efficacy,
+        like all other vaccines, COVID-19 vaccines will not be 100% effective. WHO is working
+        to help ensure that approved vaccines are as effective as possible, so they can have the
+        greatest impact on the pandemic.</string>
+    <string name="vaccTypesT">What types of COVID-19 vaccines are being developed? How would they work?</string>
+    <string name="vaccTypesB">Scientists around the world are developing many potential 
+        vaccines for COVID-19. These vaccines are all designed to teach the body’s immune 
+        system to safely recognize and block the virus that causes COVID-19.
+        Several different types of potential vaccines for COVID-19 are in development, including:
+        Inactivated or weakened virus vaccines, which use a form of the virus that has been 
+        inactivated or weakened so it doesn’t cause disease, but still generates an immune response.
+        Protein-based vaccines, which use harmless fragments of proteins or protein shells that mimic 
+        the COVID-19 virus to safely generate an immune response.
+        Viral vector vaccines, which use a safe virus that cannot cause disease but serves as a 
+        platform to produce coronavirus proteins to generate an immune response.
+        RNA and DNA vaccines, a cutting-edge approach that uses genetically engineered RNA or 
+        DNA to generate a protein that itself safely prompts an immune response.</string>
+    <string name="vaccBenefitsT">What are the benefits of getting vaccinated?</string>
+    <string name="vaccBenefitsB">The COVID-19 vaccines produce protection against the disease,
+        as a result of developing an immune response to the SARS-Cov-2 virus.  Developing immunity
+        through vaccination means there is a reduced risk of developing the  illness and its
+        consequences. This immunity helps you fight the virus if exposed. Getting vaccinated may
+        also protect people around you, because if you are protected from getting infected and
+        from disease, you are less likely to infect someone else. This is particularly important
+        to protect people at increased risk for severe illness from COVID-19, such as healthcare
+        providers, older or elderly adults, and people with other medical conditions.</string>
+    <string name="vaccSafetyT">How will we know if COVID-19 vaccines are safe?</string>
+    <string name="vaccSafetyB"> Ensuring the safety and quality of vaccines is one of WHO’s
+        highest priorities. WHO works closely with national authorities to ensure that global
+        norms and standards are developed and implemented to assess the quality, safety and
+        efficacy of vaccines.
+        The process to develop COVID vaccines is fast-tracked while maintaining the highest
+        standards: Given the urgent need to stop the pandemic, pauses between steps, often
+        needed to secure funding, have been shortened, or eliminated, and in some cases,
+        steps are being carried out in parallel to accelerate the process, wherever that
+        is safe to do. COVID-19 vaccine developers have issued a joint pledge not to seek
+        government approval for their vaccines until they’ve been proven to be safe
+        and effective.
+        After a COVID-19 vaccine is introduced, WHO supports work with vaccine manufacturers, 
+        health officials in each country, and other partners to monitor for any safety 
+        concerns on an ongoing basis.</string>
+
+    //strings for testing............Done
+    <string name="testmainT">Testing</string>
+    <string name="tstT">COVID-19 Testing</string>
+    <string name="tstB">Two kinds of tests are available for COVID-19:</string>
+    <string name="tstB1">Viral tests</string>
+    <string name="tstB2">Antibody tests.</string>
+    <string name="tstB3"> A viral test tells you if you have a current infection.An antibody test might tell you if
+        you had a past infection.</string>
+    <string name="who2testT">Who should get tested</string>
+    <string name="who2testB">People who have symptoms of COVID-19.</string>
+    <string name="who2testB1">People who have had close contact (within 6 feet for a total of 15 minutes
+        or more) with someone with confirmed COVID-19.</string>
+    <string name="who2testB2">People who have taken part in activities that put them at higher risk for
+        COVID-19 because they cannot socially distance as needed, such as travel, attending
+        large social or mass gatherings, or being in crowded indoor settings.</string>
+    <string name="who2testB3">People who have been asked or referred to get testing by their healthcare provider,
+        localexternal icon or state ​health department.</string>
+    <string name="note">Not everyone needs to be tested. If you do get tested, you should
+        self-quarantine/isolate at home pending test results and follow the advice of your 
+        health care provider or a public health professional.</string>
+    <string name="resultsT">Results</string>
+    <string name="resultsB">If you test positive, know what protective steps to take to prevent
+        others from getting sick.</string>
+    <string name="results2B">If you test negative, you probably were not infected at
+        the time your sample was collected. The test result only means that you did not have
+        COVID-19 at the time of testing. Continue to take steps to protect yourself.</string>
+
+    //strings for the Spread...........Done
+    <string name="spreadMainT">Spread</string>
+    <string name="howT">How COVID-19 Spreads</string>
+    <string name="howB">COVID-19 is thought to spread mainly through close contact
+        from person to person, including between people who are physically near each other
+        (within about 6 feet). People who are infected but do not show symptoms can also spread
+        the virus to others. Cases of reinfection with COVID-19  have been reported but are rare.
+        We are still learning about how the virus spreads and the severity of illness it causes.</string>
+    <string name="p2pT">COVID-19 spreads very easily from person to person</string>
+    <string name="p2pB">How easily a virus spreads from person to person can vary.
+        The virus that causes COVID-19 appears to spread more efficiently than influenza but
+        not as efficiently as measles, which is among the most contagious viruses known to affect
+        people.</string>
+    <string name="clscontT">COVID-19 most commonly spreads during close contact</string>
+    <string name="clscontB">People who are physically near (within 6 feet) a person with COVID-19 or have direct contact with that person are at greatest risk of infection.
+When people with COVID-19 cough, sneeze, sing, talk, or breathe they produce respiratory droplets. These droplets can range in size from larger droplets (some of which are visible) to smaller droplets. Small droplets can also form particles when they dry very quickly in the airstream.
+Infections occur mainly through exposure to respiratory droplets when a person is in close contact with someone who has COVID-19.
+Respiratory droplets cause infection when they are inhaled or deposited on mucous membranes, such as those that line the inside of the nose and mouth.
+As the respiratory droplets travel further from the person with COVID-19, the concentration of these droplets decreases. Larger droplets fall out of the air due to gravity. Smaller droplets and particles spread apart in the air.
+With passing time, the amount of infectious virus in respiratory droplets also decreases.</string>
+
+    //Variants................Done
+    <string name="varmainT">New Variants</string>
+    <string name="varTitleT">What is known</string>
+    <string name="varTitleB">Viruses constantly change through mutation, and new variants of a virus are expected to occur over time. Sometimes new variants emerge and disappear. Other times, new variants emerge and persist. Multiple variants of the virus that causes COVID-19 have been documented in the United States and globally during this pandemic.
+
+The virus that causes COVID-19 is a type of coronavirus, a large family of viruses. Coronaviruses are named for the crown-like spikes on their surfaces. Scientists monitor changes in the virus, including changes to the spikes on the surface of the virus. These studies, including genetic analyses of the virus, are helping scientists understand how changes to the virus might affect how it spreads and what happens to people who are infected with it.
+
+Multiple variants of the virus that causes COVID-19 are circulating globally:</string>
+    <string name="varuk">The United Kingdom (UK) identified a variant called B.1.1.7 with a large number of mutations in the fall of 2020.
+This variant spreads more easily and quickly than other variants. In January 2021, experts in the UK reported that this variant may be associated with an increased risk of death compared to other variant viruses, but more studies are needed to confirm this finding. It has since been detected in many countries around the world. This variant was first detected in the US at the end of December 2020.
+</string>
+    <string name="varSA">In South Africa, another variant called B.1.351 emerged independently
+        of B.1.1.7. Originally detected in early October 2020, B.1.351 shares some mutations
+        with B.1.1.7. Cases caused by this variant have been reported in
+        the US at the end of January 2021.</string>
+    <string name="varBra">In Brazil, a variant called P.1 emerged that was first
+        identified in travelers from Brazil, who were tested during routine screening
+        at an airport in Japan, in early January. This variant contains a set of additional
+        mutations that may affect its ability to be recognized by antibodies. This variant
+        was first detected in the US at the end of January 2021.</string>
+    <string name="varC">These variants seem to spread more easily and quickly than other variants, which may lead to more cases of COVID-19. An increase in the number of cases will put more strain on health care resources, lead to more hospitalizations, and potentially more deaths.
+
+So far, studies suggest that antibodies generated through vaccination with currently authorized vaccines recognize these variants. This is being closely investigated and more studies are underway.
+
+Rigorous and increased compliance with public health mitigation strategies, such as vaccination, physical distancing, use of masks, hand hygiene, and isolation and quarantine, is essential to limit the spread of the virus that causes COVID-19 and protect public health.</string>
+
+    //Strings for Prevention.......Done
+    <string name="PrevMethods">Prevention Methods</string>
+    <string name="bestWay">The best way to prevent illness is to avoid being exposed to this virus.
+        Learn how COVID-19 spreads and practice these actions to help prevent the spread of this
+        illness.</string>
+    <string name="prevTitleT">To help prevent the spread of COVID-19:</string>
+    <string name="prevTitleB1">Cover your mouth and nose with a mask when around people who don’t
+        live with you. Masks work best when everyone wears one.</string>
+    <string name="prevTitleB2">Stay at least 6 feet (about 2 arm lengths) from others.</string>
+    <string name="prevTitleB3">Avoid crowds. The more people you are in contact with, the more likely you are to be exposed to COVID-19.</string>
+    <string name="prevTitleB4">Avoid unventilated indoor spaces. If indoors, bring in fresh air by opening windows and doors.</string>
+    <string name="prevTitleB5">Avoid unventilated indoor spaces. If indoors, bring in fresh air by opening windows and doors.</string>
+    <string name="prevTitleB6">Clean your hands often, either with soap and water for 20 seconds or a hand sanitizer that contains at least 60% alcohol.</string>
+    <string name="prevTitleB7">Get vaccinated against COVID-19 when it’s your turn.</string>
+    <string name="prevTitleB8">Cover your cough or sneeze with a tissue, then throw the tissue in the trash.</string>
+    <string name="prevTitleB9">Clean and disinfect frequently touched objects and surfaces daily.</string>
+
+    //causes..................
+    <string name="causeT"></string>
+
+
+</resources>
